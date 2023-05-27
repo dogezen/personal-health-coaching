@@ -1,3 +1,5 @@
-site_name: Health Coaching
+site_name: Personal Health Coaching
 theme:
   name: material
+markdown_extensions:
+  - tables

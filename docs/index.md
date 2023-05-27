@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Index / Homepage
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+- [Meal Plan](meal-plan.md)
+- [Food integration after sport](sport-integration-rules.md)
+- [Exercise routine](exercise-routine.md)
 
-## Commands
+## Eating protocols
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [Meal Protocol](meal-protocol.md#general-meal-protocol)
+- [Eating out protocol](meal-protocol.md#eating-out)
 
-## Project layout
+## Other protocols
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Monthly check in with bilancia biopotenziometrica
+
+Monthly check in with Querci:
+
+- Tiredness
+- How are exercises going
+- What have you not done
